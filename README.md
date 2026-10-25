@@ -17,7 +17,7 @@ Each record holds a student number, first name, last name, department and year, 
 Open `odevc.sln` in Visual Studio and run, or compile with MSVC:
 
 ```bash
-cl odevc\MarimMahmoud_22670310118_Odev.c
+cl odevc\student_management.c
 ```
 
 The code uses `scanf_s`, so it targets the Microsoft C compiler.
