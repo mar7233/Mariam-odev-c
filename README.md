@@ -4,6 +4,10 @@ A console application in C for managing student records stored in a text file.
 
 ![C](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black)
 
+## Screenshot
+
+![Adding and listing students in the console](docs/screenshots/console.png)
+
 ## Features
 
 - Add, find, edit and delete a student
